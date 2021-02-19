@@ -1,0 +1,8 @@
+//You can use:== {coin}, {amount}, {percent}, {value}, {currency}, {swing_threshold}
+title:==Your crypto Exceeded threshold!
+text:==
+Coin: {coin}
+Amount: {amount}
+Value: {value} {currency}
+Value changed by (percent): {percent}
+Swing threshold: {swing_threshold}

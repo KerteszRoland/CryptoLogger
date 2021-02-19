@@ -1,0 +1,5 @@
+coins:==district0x;nucypher;bitcoin
+swing_percent_threshold:==10;10;5
+coins_amount:==15;5;0.0001
+coins_value:==1400;1400;1400
+currency:==huf
